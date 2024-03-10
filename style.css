@@ -187,7 +187,10 @@ html, body{
     background-color:#F7F7F7;
 }
 
-
+#icons a{
+    text-decoration: none;
+    color: #333;
+}
 
 
 
